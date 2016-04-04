@@ -15,7 +15,7 @@
 #-keepclassmembers class fqcn.of.javascript.interface.for.webview {
 #   public *;
 #}
-
+-dontoptimize
 -keepattributes *Annotation*,EnclosingMethod,Signature,LineNumberTable,SourceFile
 
 -dontwarn cyanogenmod.**
