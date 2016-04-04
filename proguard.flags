@@ -18,5 +18,6 @@
 
 -keepattributes *Annotation*,EnclosingMethod,Signature,LineNumberTable,SourceFile
 
+-dontnote android.support.v4.**
 -dontwarn cyanogenmod.**
 -keep class cyanogenmod.app.** { *; }
