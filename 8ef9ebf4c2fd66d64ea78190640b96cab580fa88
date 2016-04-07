@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7faddb67_7347554d",
+        "filename": "proguard.flags",
+        "patchSetId": 5
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2016-04-07T21:39:46Z",
+      "side": 1,
+      "message": "This package is not obfuscated so the only other thing proguard can do is optimize, which can be easily disabled in Android.mk, so why is this being added here?\n\nAnd why do you not want to optimize?",
+      "revId": "8ef9ebf4c2fd66d64ea78190640b96cab580fa88",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
