@@ -16,6 +16,24 @@
       "revId": "3a7238629f2f8dc3a9fe959155a9717ba6e7cc57",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7faddb67_b8ae0c2c",
+        "filename": "proguard.flags",
+        "patchSetId": 4
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 14599
+      },
+      "writtenOn": "2016-04-07T19:57:56Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7faddb67_357ea5e4",
+      "revId": "3a7238629f2f8dc3a9fe959155a9717ba6e7cc57",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
