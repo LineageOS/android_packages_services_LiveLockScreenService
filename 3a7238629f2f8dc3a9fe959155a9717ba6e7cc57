@@ -2,6 +2,29 @@
   "comments": [
     {
       "key": {
+        "uuid": "7faddb67_33047d15",
+        "filename": "proguard.flags",
+        "patchSetId": 4
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2016-04-07T20:29:23Z",
+      "side": 1,
+      "message": "Why do are you adding this?  Optimization is something we want.",
+      "range": {
+        "startLine": 18,
+        "startChar": 1,
+        "endLine": 18,
+        "endChar": 13
+      },
+      "revId": "3a7238629f2f8dc3a9fe959155a9717ba6e7cc57",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7faddb67_357ea5e4",
         "filename": "proguard.flags",
         "patchSetId": 4
@@ -31,6 +54,24 @@
       "side": 1,
       "message": "Done",
       "parentUuid": "7faddb67_357ea5e4",
+      "revId": "3a7238629f2f8dc3a9fe959155a9717ba6e7cc57",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7faddb67_d3088929",
+        "filename": "proguard.flags",
+        "patchSetId": 4
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2016-04-07T20:29:23Z",
+      "side": 1,
+      "message": "This still exist so what are you marking as done?",
+      "parentUuid": "7faddb67_b8ae0c2c",
       "revId": "3a7238629f2f8dc3a9fe959155a9717ba6e7cc57",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
