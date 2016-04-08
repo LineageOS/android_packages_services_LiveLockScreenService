@@ -16,6 +16,24 @@
       "revId": "8ef9ebf4c2fd66d64ea78190640b96cab580fa88",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7faddb67_f313450c",
+        "filename": "proguard.flags",
+        "patchSetId": 5
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 14599
+      },
+      "writtenOn": "2016-04-08T06:29:04Z",
+      "side": 1,
+      "message": "i have referens from http://proguard.sourceforge.net/manual/troubleshooting.html#duplicateclass",
+      "parentUuid": "7faddb67_7347554d",
+      "revId": "8ef9ebf4c2fd66d64ea78190640b96cab580fa88",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
